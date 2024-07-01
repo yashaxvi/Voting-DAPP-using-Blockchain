@@ -3,7 +3,7 @@
 
 A decentralized voting system based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.
 
-> This was the semester project for our Database Management Systems Course.
+> This was the semester project.
 
 ## System Workflow
 
